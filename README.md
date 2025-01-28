@@ -5,4 +5,4 @@
 
 <h3>Benton Boychuk-Chorney</h3>
 
-#### Software Develper, Kinesiologist, 3D Artist
+#### Software Developer, Kinesiologist, 3D Artist
