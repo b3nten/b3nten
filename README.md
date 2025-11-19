@@ -12,4 +12,6 @@
 
 - website:  [benten.ca](https://benten.ca)
 - email:    [ben@benten.ca](mailto:ben@benten.ca)
-- linkedin: [in/bentonbc](https://www.linkedin.com/in/bentonbc/)
+- linkedin: [in/bentonbc](https://www.linkedin.com/in/bentonbc)
+- instagram: [@benton328](https://www.instagram.com/benton328)
+- x: [@63nt3n](https://x.com/63nt3n)
