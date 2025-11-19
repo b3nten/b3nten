@@ -10,6 +10,6 @@
 
 ### Links and stuff
 
-- website: [benten.ca](https://benten.ca)
-- email: [ben@benten.ca](mailto:ben@benten.ca)
+- website:  [benten.ca](https://benten.ca)
+- email:    [ben@benten.ca](mailto:ben@benten.ca)
 - linkedin: [in/bentonbc](https://www.linkedin.com/in/bentonbc/)
